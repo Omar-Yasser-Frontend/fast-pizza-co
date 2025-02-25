@@ -9,9 +9,13 @@ A simple and modern pizza ordering app built with React, Redux Toolkit, React Ro
 - View your order summary before checkout.
 - Fully responsive design with Tailwind CSS.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 - React – UI framework
 - Redux Toolkit – State management
 - React Router – Page navigation
 - Tailwind CSS – Styling
+
+# Demo
+
+- [Live Demo](https://fast-pizza-co-three.vercel.app/)
